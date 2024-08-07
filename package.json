@@ -1,12 +1,12 @@
 {
-  "name": "react-native-iconly",
+  "name": "@vmakh/react-native-iconly",
   "version": "1.0.11",
   "description": "React native component for Iconly icons",
   "author": "otaviomad",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otaviomad/react-native-iconly"
+    "url": "git+https://github.com/v-makh/react-native-iconly.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
